@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tiendaV.xsl"	type="text/xsl"?>
+
+<Articulos>
+  <Articulo>
+	<imagen src="https://cdn.deporvillage.com/cdn-cgi/image/h=576,w=576,dpr=1,f=auto,q=75,fit=contain,background=white/product/ar-002507-350.jpg" alt="Imagen Producto"/>
+    <codigo>01</codigo>
+    <nombre>Gafas de natación/ Antiparras full</nombre>
+    <descripcion>Polarizadas, para competición profesional.</descripcion>
+    <precio>20.00</precio>
+    <iva>21%</iva>
+    <tipo>Accesorios</tipo>
+	<cantidad>50</cantidad>
+  </Articulo>
+  <Articulo>
+	<imagen src="https://contents.mediadecathlon.com/p1585153/k$ff2235694ac7f5b8d54248ad25d77593/sq/250x250/Gorros-para-ninos.jpg" alt="Imagen Producto" />
+    <codigo>02</codigo>
+    <nombre>Gorro</nombre>
+    <descripcion>gorro de goma profesional</descripcion>
+    <precio>20.00</precio>
+    <iva>21%</iva>
+    <tipo>Accesorios</tipo>
+	<cantidad>100</cantidad>
+  </Articulo>
+  <Articulo>
+	<imagen src="https://cdn.deporvillage.com/cdn-cgi/image/h=576,w=576,dpr=1,f=auto,q=75,fit=contain,background=white/product/so-8-08841b076.jpg" alt="Imagen Producto"/>
+    <codigo>03</codigo>
+    <nombre>Patas de rana</nombre>
+    <descripcion>Potencia tus patadas de nado con estas patas de rana</descripcion>
+    <precio>80.00</precio>
+    <iva>21%</iva>
+    <tipo>Accesorios</tipo>
+	<cantidad>40</cantidad>
+  </Articulo>
+  <Articulo>
+	<imagen src="https://m.media-amazon.com/images/I/91LSBFw082L._AC._SR360,460.jpg" alt="Imagen Producto"/>
+    <codigo>04</codigo>
+    <nombre>Manoplas</nombre>
+    <descripcion>Potencia tus brazadas y nada con mas fuerza</descripcion>
+    <precio>50.00</precio>
+    <iva>21%</iva>
+    <tipo>Accesorios</tipo>
+	<cantidad>20</cantidad>
+  </Articulo>
+  <Articulo>
+	<imagen src="https://m.media-amazon.com/images/I/71CUDkHqj1L._AC_SY355_.jpg" alt="Imagen Producto" />
+    <codigo>05</codigo>
+    <nombre>Toalla de fibra</nombre>
+    <descripcion>Secado rapido, ideal para entrenar</descripcion>
+    <precio>70.00</precio>
+    <iva>21%</iva>
+    <tipo>Accesorios</tipo>
+	<cantidad>100</cantidad>
+  </Articulo>
+  <Articulo>
+	<imagen src="https://cdn.deporvillage.com/cdn-cgi/image/h=576,w=576,dpr=1,f=auto,q=75,fit=contain,background=white/product/so-8-122300001_001.jpg" alt="Imagen Producto"/>
+    <codigo>06</codigo>
+    <nombre>Ojotas Speedo</nombre>
+    <descripcion>Con suela antideslizante, ideal para el vestuario</descripcion>
+    <precio>80.00</precio>
+    <iva>21%</iva>
+    <tipo>Calzado</tipo>
+	<cantidad>50</cantidad>
+  </Articulo>
+  <Articulo>
+	<imagen src="https://m.media-amazon.com/images/I/51m1FJY1KTL._AC_SX355_.jpg" alt="Imagen Producto"/>
+    <codigo>07</codigo>
+    <nombre>Gafas de natación arena</nombre>
+    <descripcion>Para competicion</descripcion>
+    <precio>50.00</precio>
+    <iva>21%</iva>
+    <tipo>Accesorios</tipo>
+	<cantidad>60</cantidad>
+  </Articulo>
+  <Articulo>
+	<imagen src="https://www.shop4swimming.com/images/thumbs/0045975_silicone-swimming-cap-with-national-flags-motif-012451.jpeg" alt="Imagen Producto" />
+    <codigo>08</codigo>
+    <nombre>Gorro de goma</nombre>
+    <descripcion>impide la entrada de agua a tu cabeza</descripcion>
+    <precio>70.00</precio>
+    <iva>21%</iva>
+    <tipo>Accesorios</tipo>
+	<cantidad>10</cantidad>
+  </Articulo>
+  <Articulo>
+	<imagen src="https://www.arenasport.com/media/catalog/product/cache/260852e6baeaefa2b29d3c90545319ca/f/t/ftp_m_magentoproduct_photos003659730_003_xl.jpg" alt="Imagen Producto"/>
+    <codigo>09</codigo>
+    <nombre>Bañadores para competencia </nombre>
+    <descripcion>La mejor calidad del mercado</descripcion>
+    <precio>200.00</precio>
+    <iva>21%</iva>
+    <tipo>Ropa</tipo>
+	<cantidad>40</cantidad>
+  </Articulo>
+  
+  
+  
+  
+  <Articulo>
+    <imagen src="https://contents.mediadecathlon.com/p2279786/k$fa29611bfa8200f8f4401330fddf3bee/sq/kit-gafas-natacion-azul-turquesa-suecas-cristales-tintados-espejo.jpg" alt="Gafas de natación"/>
+    <codigo>010</codigo>
+    <nombre>Gafas de natación/ Antiparras</nombre>
+    <descripcion>Gafas de natación resistentes al agua con lentes antiempañamiento ideal para entrenar en el dia a dia </descripcion>
+    <precio>25.00</precio>
+    <iva>21%</iva>
+    <tipo>Gafas de natación</tipo>
+    <cantidad>10</cantidad>
+  </Articulo>
+  <Articulo>
+    <imagen src="https://proswim.scdn3.secure.raxcdn.com/media/catalog/product/cache/28fdb8e8fcaed10b93cc7f830192cb5c/8/-/8-11978f782-x1.jpg" alt="Traje de baño para mujer"/>
+    <codigo>011</codigo>
+    <nombre>Traje de baño para mujer</nombre>
+    <descripcion>Traje de baño de una pieza para mujer con tirantes ajustables y copas removibles</descripcion>
+    <precio>24.99</precio>
+    <iva>21%</iva>
+    <tipo>Trajes de baño para mujer</tipo>
+    <cantidad>15</cantidad>
+  </Articulo>
+  <Articulo>
+    <imagen src="https://www.arenasport.com/media/catalog/product/cache/260852e6baeaefa2b29d3c90545319ca/f/t/ftp_m_magentoproduct_photos1e774231_006_xl.jpg" alt="Gorro de natación"/>
+    <codigo>012</codigo>
+    <nombre>Gorro de natación</nombre>
+    <descripcion>Gorro de natación cómodo y resistente al agua para adultos y niños</descripcion>
+    <precio>20.00</precio>
+    <iva>21%</iva>
+    <tipo>Accesorios para natación</tipo>
+    <cantidad>20</cantidad>
+  </Articulo>
+  <Articulo>
+    <imagen src="https://gabrieldiazswimming.files.wordpress.com/2020/11/9b04b97a7eda472b1f233bea386dd2dd.png" alt="Aletas de natación"/>
+    <codigo>013</codigo>
+    <nombre>Aletas de natación/ Patas de rana</nombre>
+    <descripcion>Aletas de natación para mejorar la velocidad y la fuerza en el agua</descripcion>
+    <precio>45.99</precio>
+    <iva>21%</iva>
+    <tipo>Aletas de natación</tipo>
+    <cantidad>8</cantidad>
+  </Articulo>
+  <Articulo>
+    <imagen src="https://contents.mediadecathlon.com/p2131879/k$55af7b0582bb3729aa2ff969b28262b0/sq/baador-hombre-natacion-jammer-nabaiji-negro-amarillo.jpg" alt="Bañador para hombre"/>
+    <codigo>014</codigo>
+    <nombre>Bañador para hombre</nombre>
+    <descripcion>Bañador de natación para hombre de secado rápido y cómodo</descripcion>
+    <precio>40.00</precio>
+    <iva>21%</iva>
+    <tipo>Trajes de baño para hombre</tipo>
+    <cantidad>12</cantidad>
+  </Articulo>
+ <Articulo>
+    <imagen src="https://www.arenasport.com/media/.renditions/wysiwyg/product-pages/theonegoggles/the_one_goggles_900x600.jpg" alt="Gafas de natación"/>
+    <codigo>015</codigo>
+    <nombre>Gafas de natación</nombre>
+    <descripcion>Gafas de natación con lentes antiempañamiento y protección UV.</descripcion>
+    <precio>14.99</precio>
+    <iva>21%</iva>
+    <tipo>Gafas</tipo>
+    <cantidad>50</cantidad>
+</Articulo>
+
+<Articulo>
+    <imagen src="https://img.mrvcdn.com/g/fb/kf/Ed9428102671c4924a23f2ce987af3f6bV.jpg_2200x2200q80.jpg" alt="Gorro de natación"/>
+    <codigo>016</codigo>
+    <nombre>Gorro de natación</nombre>
+    <descripcion>Gorro de natación de silicona, resistente y cómodo.</descripcion>
+    <precio>5.99</precio>
+    <iva>21%</iva>
+    <tipo>Gorros</tipo>
+    <cantidad>100</cantidad>
+</Articulo>
+
+<Articulo>
+    <imagen src="https://www.arenasport.com/media/catalog/product/cache/260852e6baeaefa2b29d3c90545319ca/f/t/ftp_m_magentoproduct_photos002757450_002_xl.jpg" alt="Traje de baño"/>
+    <codigo>017</codigo>
+    <nombre>Traje de baño</nombre>
+    <descripcion>Traje de baño de una pieza para mujeres, cómodo y resistente al agua clorada.</descripcion>
+    <precio>29.99</precio>
+    <iva>21%</iva>
+    <tipo>Trajes de baño</tipo>
+    <cantidad>30</cantidad>
+</Articulo>
+
+<Articulo>
+    <imagen src="https://m.media-amazon.com/images/I/91TpHS8zKRL._AC_SX425_.jpg" alt="Toalla de natación"/>
+    <codigo>018</codigo>
+    <nombre>Toalla de natación</nombre>
+    <descripcion>Toalla de microfibra, absorbente y compacta, ideal para llevar a la piscina o playa.</descripcion>
+    <precio>12.99</precio>
+    <iva>21%</iva>
+    <tipo>Toallas</tipo>
+    <cantidad>70</cantidad>
+</Articulo>
+
+<Articulo>
+    <imagen src="https://www.arenasport.com/media/catalog/product/cache/260852e6baeaefa2b29d3c90545319ca/f/t/ftp_m_magentoproduct_photos004826501_001_xl.jpg" alt="Snorkel"/>
+    <codigo>019</codigo>
+    <nombre>Snorkel</nombre>
+    <descripcion>Snorkel de alta calidad, con válvula para evitar el agua en la boca y tubo flexible.</descripcion>
+    <precio>45.00</precio>
+    <iva>21%</iva>
+    <tipo>Snorkels</tipo>
+    <cantidad>25</cantidad>
+</Articulo>
+
+<Articulo>
+	<imagen src="https://s.libertaddigital.com/2022/06/23/1500/750/gafas-de-natacion.jpg" alt="Imagen Producto"/>
+    <codigo>020</codigo>
+    <nombre>Set de gafas de natación</nombre>
+    <descripcion>Set de gafas de natación con ajuste cómodo y antivaho.</descripcion>
+    <precio>60.00</precio>
+    <iva>21%</iva>
+    <tipo>Gafas de natación</tipo>
+	<cantidad>20</cantidad>
+</Articulo>
+
+
+
+
+</Articulos>
